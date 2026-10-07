@@ -9,9 +9,9 @@ git clone [https://github.com/Marcos-Pedraza/Trabajo_Practico_Integrador_4.git](
 cd Trabajo_Practico_Integrador_4
 
 👥 Integrantes
-Lautaro Acosta
-Jeronimo Canale
-Leandro Navarrete
-Marcos Pedraza
-Facundo Pereyra
-Estefanía Septfons
+Lautaro Acosta,
+Jeronimo Canale,
+Leandro Navarrete,
+Marcos Pedraza,
+Facundo Pereyra,
+Estefanía Septfons.
